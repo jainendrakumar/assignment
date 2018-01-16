@@ -1,0 +1,5 @@
+Duplicate Transaction Reference : 
+[Transaction Reference=[112806] & Description=[Tickets for Jan Dekker], Transaction Reference=[112806] & Description=[Candy for Richard Bakker], Transaction Reference=[112806] & Description=[Clothes for Peter de Vries]]
+
+Wrong Transactions : 
+Transaction Reference=[128402] & Description=[Candy from Jainendra Kumar]

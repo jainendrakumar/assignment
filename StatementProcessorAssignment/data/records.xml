@@ -1,0 +1,23 @@
+<records>
+  <record reference="149163">
+    <accountNumber>NL32RABO0195610843</accountNumber>
+    <description>Tickets for Peter King</description>
+    <startBalance>14.45</startBalance>
+    <mutation>+1.23</mutation>
+    <endBalance>23.93</endBalance>
+  </record>
+  <record reference="112806">
+    <accountNumber>NL46ABNA0625805417</accountNumber>
+    <description>Subscription from Erik Bakker</description>
+    <startBalance>5429</startBalance>
+    <mutation>-939</mutation>
+    <endBalance>69.51</endBalance>
+  </record>
+  <record reference="113575">
+    <accountNumber>NL91RABO0315273637</accountNumber>
+    <description>Clothes from Jan Bakker</description>
+    <startBalance>25.22</startBalance>
+    <mutation>+27.3</mutation>
+    <endBalance>52.52</endBalance>
+  </record>
+</records>
